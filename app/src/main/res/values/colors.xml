@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- color palette -->
+    <color name="dark_grey">#201E1E</color>
+    <color name="grey_one">#CCCCCC</color>
+    <color name="grey_two">#B7B7B7</color>
+    <color name="grey_three">#3F3F3F</color>
+    <color name="white">#FFFFFF</color>
+    <color name="golden">#EEC843</color>
+</resources>

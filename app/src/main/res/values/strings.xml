@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Remote-Controller DU</string>
+    <string name="part_logo_one">ПУЛЬТ</string>
+    <string name="part_logo_two">ДУ</string>
+    <string name="btWiFi">Wi-Fi</string>
+    <string name="btIK">ИК-порт</string>
+    <string name="warning">Обязательно  убедись, что Ваше телефон и TY-устройство подключены к одной Wi-Fi сети</string>
+    <string name="title_activity_cjntroller_one">CjntrollerOne</string>
+</resources>

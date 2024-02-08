@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/drawable_line_foot.xml.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/drawable/line_foot.xml"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/drawable_line_down.xml.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/drawable/line_down.xml"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/xml_backup_rules.xml.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/layout_detected_tv_item.xml.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/layout/detected_tv_item.xml"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/drawable_line_stand.xml.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/drawable/line_stand.xml"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/drawable_click_animation.xml.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/drawable/click_animation.xml"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/drawable_line_top.xml.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/drawable/line_top.xml"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.remote_controllerdu.app-merged_res-28:/drawable_logo_item.xml.flat",
+        "source": "com.example.remote_controllerdu.app-main-30:/drawable/logo_item.xml"
+    }
+]

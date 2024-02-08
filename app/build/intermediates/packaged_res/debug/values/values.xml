@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_grey">#201E1E</color>
+    <color name="golden">#EEC843</color>
+    <color name="grey_one">#CCCCCC</color>
+    <color name="grey_three">#3F3F3F</color>
+    <color name="grey_two">#B7B7B7</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Remote-Controller DU</string>
+    <string name="btIK">ИК-порт</string>
+    <string name="btWiFi">Wi-Fi</string>
+    <string name="part_logo_one">ПУЛЬТ</string>
+    <string name="part_logo_two">ДУ</string>
+    <string name="title_activity_cjntroller_one">CjntrollerOne</string>
+    <string name="warning">Обязательно  убедись, что Ваше телефон и TY-устройство подключены к одной Wi-Fi сети</string>
+    <style name="Base.Theme.RemoteControllerDU" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.RemoteControllerDU" parent="Base.Theme.RemoteControllerDU"/>
+</resources>
